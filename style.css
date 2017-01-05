@@ -1,0 +1,17 @@
+body{
+	background-color: #d3d3d3;
+	width: 50%;
+	margin: auto;
+	font-family: arial;
+}
+
+h1{
+	padding: 10px 0;
+}
+
+blockquote{
+	border: 2px solid white;
+	margin: 10px 0;
+	padding: 10px;
+	text-align: center;
+}
